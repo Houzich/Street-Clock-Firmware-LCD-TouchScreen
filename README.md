@@ -1,0 +1,2 @@
+# Street-Clock-Firmware-LCD-TouchScreen
+ Firmware for the street clock control board on 32F769IDISCOVERY and STM32F429I-DISCO. Settings are made on the TouchScreen LCD screen. For display on the screen, the STemWin library is used.
