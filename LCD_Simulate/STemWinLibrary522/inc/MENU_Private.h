@@ -194,3 +194,4 @@ void      MENU__SetItemFlags          (MENU_Obj * pObj, unsigned Index, U16 Mask
 #endif  // MENU_PRIVATE_H
 
 /*************************** End of file ****************************/
+

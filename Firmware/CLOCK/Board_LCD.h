@@ -65,3 +65,4 @@ __NO_RETURN void LCD_Thread (void *argument);
 }
 #endif
 #endif /*__BOARD_LCD*/
+

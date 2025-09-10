@@ -94,3 +94,4 @@ Purpose     : Configures emWins abilities, fonts etc.
 #define GUI_SUPPORT_DEVICES           (1)    /* Enable use of device pointers */
 
 #endif  /* Avoid multiple inclusion */
+

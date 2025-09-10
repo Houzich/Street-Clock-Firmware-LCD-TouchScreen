@@ -246,3 +246,4 @@ unsigned FRAMEWIN__GetBorderSize  (FRAMEWIN_Handle hObj, unsigned Index);
 
 #endif   // GUI_WINSUPPORT
 #endif   // FRAMEWIN_PRIVATE_H
+

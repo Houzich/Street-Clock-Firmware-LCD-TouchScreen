@@ -122,3 +122,4 @@ int GUI_BMP__ReadPalette(GUI_BMP_CONTEXT * pContext, int NumColors);
 #endif /* GUI_BMP_PRIVATE_H */
 
 /*************************** End of file ****************************/
+

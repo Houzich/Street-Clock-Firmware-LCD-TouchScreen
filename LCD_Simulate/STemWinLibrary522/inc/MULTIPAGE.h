@@ -215,3 +215,4 @@ void                    MULTIPAGE_SetSkinFlexProps     (const MULTIPAGE_SKINFLEX
 #endif  // MULTIPAGE_H
 
 /*************************** End of file ****************************/
+

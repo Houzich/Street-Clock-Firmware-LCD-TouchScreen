@@ -216,3 +216,4 @@ WIDGET_DRAW_ITEM_FUNC * CHECKBOX_SetDefaultSkin(WIDGET_DRAW_ITEM_FUNC * pfDrawSk
 #endif  // CHECKBOX_H
 
 /*************************** End of file ****************************/
+

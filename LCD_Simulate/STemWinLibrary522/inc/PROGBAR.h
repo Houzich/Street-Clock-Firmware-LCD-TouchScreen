@@ -184,3 +184,4 @@ WIDGET_DRAW_ITEM_FUNC * PROGBAR_SetDefaultSkin(WIDGET_DRAW_ITEM_FUNC * pfDrawSki
 #endif  // PROGBAR_H
 
 /*************************** End of file ****************************/
+

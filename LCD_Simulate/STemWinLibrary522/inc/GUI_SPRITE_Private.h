@@ -85,3 +85,4 @@ typedef struct {
 #endif // GUI_SPRITE_PRIVATE_H
 
 /*************************** End of file ****************************/
+

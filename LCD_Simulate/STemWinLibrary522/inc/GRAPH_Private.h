@@ -171,3 +171,4 @@ void GRAPH__InvalidateGraph(GRAPH_Handle hObj);
 
 #endif /* GUI_WINSUPPORT */
 #endif /* GRAPH_PRIVATE_H */
+

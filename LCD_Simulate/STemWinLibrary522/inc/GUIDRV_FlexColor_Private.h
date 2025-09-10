@@ -252,3 +252,4 @@ void GUIDRV_FlexColor__SetFunc66712(GUI_DEVICE * pDevice, U16 AndMask_SetAddrRAM
 #endif /* GUIDRV_FLEXCOLOR_PRIVATE_H */
 
 /*************************** End of file ****************************/
+
