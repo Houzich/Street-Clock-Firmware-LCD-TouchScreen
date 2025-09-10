@@ -286,3 +286,4 @@ void            FRAMEWIN_SetDefaultTextColor  (unsigned Index, GUI_COLOR Color);
 #endif  // FRAMEWIN_H
 
 /*************************** End of file ****************************/
+

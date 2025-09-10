@@ -8,3 +8,4 @@ Firmware for the street clock control board on 32F769IDISCOVERY and STM32F429I-D
 LCD:
 
 ![Image alt](https://github.com/Houzich/Street-Clock-Firmware-LCD-TouchScreen/blob/main/Images/Street_Clock_LCD.png)
+

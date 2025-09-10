@@ -287,3 +287,4 @@ int       GUI_JPEG__SkipLine                (GUI_JPEG_DCONTEXT * pContext);
 int       GUI_JPEG__GetInfoEx               (GUI_HMEM hContext, GUI_JPEG_INFO * pInfo);
 
 #endif
+

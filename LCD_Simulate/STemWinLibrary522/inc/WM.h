@@ -703,3 +703,4 @@ void WM_DIAG_EnableInvalidationColoring(int OnOff);
 #endif   /* WM_H */
 
 /*************************** End of file ****************************/
+

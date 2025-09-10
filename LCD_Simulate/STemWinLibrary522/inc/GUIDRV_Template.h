@@ -81,3 +81,4 @@ extern const GUI_DEVICE_API GUIDRV_Template_API;
 #endif
 
 /*************************** End of file ****************************/
+

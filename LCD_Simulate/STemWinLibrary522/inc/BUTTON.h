@@ -228,3 +228,4 @@ WIDGET_DRAW_ITEM_FUNC * BUTTON_SetDefaultSkin(WIDGET_DRAW_ITEM_FUNC * pfDrawSkin
 #endif   // BUTTON_H
 
 /*************************** End of file ****************************/
+

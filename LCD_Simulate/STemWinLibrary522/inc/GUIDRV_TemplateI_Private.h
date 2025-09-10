@@ -201,3 +201,4 @@ void   GUIDRV__TemplateI_GetRect   (GUI_DEVICE *  pDevice,  LCD_RECT * pRect);
 #endif
 
 /*************************** End of file ****************************/
+

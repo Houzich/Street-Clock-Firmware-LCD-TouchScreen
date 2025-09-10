@@ -122,3 +122,4 @@ void IMAGE_SetPNGEx (IMAGE_Handle hObj, GUI_GET_DATA_FUNC * pfGetData, void * pV
 #endif // IMAGE_H
 
 /*************************** End of file ****************************/
+

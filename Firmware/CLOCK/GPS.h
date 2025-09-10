@@ -149,3 +149,4 @@ typedef struct __STREETCLOCK_HandleGPSTypeDef
 }
 #endif
 #endif /*__GPS_H*/
+

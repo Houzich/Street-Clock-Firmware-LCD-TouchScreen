@@ -142,3 +142,4 @@ void    CHOOSEFILE_SetTopMode          (unsigned OnOff);
 #endif /* GUI_WINSUPPORT */
 
 #endif /* CHOOSEFILE_H */
+
