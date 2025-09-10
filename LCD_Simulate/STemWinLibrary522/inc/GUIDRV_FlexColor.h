@@ -278,3 +278,4 @@ extern const GUI_DEVICE_API GUIDRV_FlexColor_API;
 #endif /* GUIDRV_FLEXCOLOR_H */
 
 /*************************** End of file ****************************/
+

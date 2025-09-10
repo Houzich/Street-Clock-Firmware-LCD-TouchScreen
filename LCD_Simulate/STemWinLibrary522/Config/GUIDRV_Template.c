@@ -834,3 +834,4 @@ const GUI_DEVICE_API GUIDRV_Template_API = {
 };
 
 /*************************** End of file ****************************/
+

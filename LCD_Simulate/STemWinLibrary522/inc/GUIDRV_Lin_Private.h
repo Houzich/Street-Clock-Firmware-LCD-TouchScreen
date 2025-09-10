@@ -704,3 +704,4 @@ static void _SetSize(GUI_DEVICE * pDevice, int xSize, int ySize) {
 #endif /* GUIDRV_LIN_PRIVATE_H */
 
 /*************************** End of file ****************************/
+

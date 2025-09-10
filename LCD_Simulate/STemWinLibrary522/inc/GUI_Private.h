@@ -651,3 +651,4 @@ GUI_EXTERN I16 GUI_OrgX, GUI_OrgY;
 #endif /* GUI_PRIVATE_H */
 
 /*************************** End of file ****************************/
+

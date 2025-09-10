@@ -65,3 +65,4 @@ void GUIDRV__NoOpt_DrawBitmap(GUI_DEVICE * pDevice, int x0, int y0, int xSize, i
 #endif
 
 /*************************** End of file ****************************/
+

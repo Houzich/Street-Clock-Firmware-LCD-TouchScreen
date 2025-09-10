@@ -217,3 +217,4 @@ void SPINBOX_SetDefaultButtonSize(U16 ButtonSize);
 
 #endif   /* if GUI_WINSUPPORT */
 #endif   /* SPINBOX_H */
+

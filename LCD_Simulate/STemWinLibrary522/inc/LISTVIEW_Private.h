@@ -202,3 +202,4 @@ int                  LISTVIEW__UpdateScrollParas    (LISTVIEW_Handle   hObj);
 #endif // LISTVIEW_PRIVATE_H
 
 /*************************** End of file ****************************/
+

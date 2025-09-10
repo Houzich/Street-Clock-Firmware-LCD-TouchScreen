@@ -69,3 +69,4 @@ extern GUI_COLOR WINDOW__DefaultBkColor;
 
 #endif   /* GUI_WINSUPPORT */
 #endif   /* WINDOW_PRIVATE_H */
+

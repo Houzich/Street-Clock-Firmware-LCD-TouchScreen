@@ -155,3 +155,4 @@ void IMAGE__FreeAttached (IMAGE_Handle hObj, int LeaveTimer);
 #endif // IMAGE_PRIVATE_H
 
 /*************************** End of file ****************************/
+

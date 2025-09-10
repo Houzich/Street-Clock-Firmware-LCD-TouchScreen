@@ -94,3 +94,4 @@ void GUI_HOOK_Remove(GUI_HOOK** ppFirstHook, GUI_HOOK* pHook);
 #endif   /* GUI_HOOK_H */
 
 /*************************** End of file ****************************/
+

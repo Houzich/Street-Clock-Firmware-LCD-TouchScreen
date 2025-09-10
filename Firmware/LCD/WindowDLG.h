@@ -21,3 +21,4 @@ extern WM_HWIN hItem_Text_Block;
 /* Exported functions --------------------------------------------------------*/
 WM_HWIN CreateWindow(void);
 #endif /*__WINDOWDLG*/
+

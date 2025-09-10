@@ -593,3 +593,4 @@ void HAL_RTC_MspDeInit(RTC_HandleTypeDef *hrtc)
   HAL_PWR_DisableBkUpAccess();
   __HAL_RCC_PWR_CLK_DISABLE();
 }
+

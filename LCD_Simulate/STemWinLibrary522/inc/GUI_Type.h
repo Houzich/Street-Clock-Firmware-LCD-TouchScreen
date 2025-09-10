@@ -628,3 +628,4 @@ typedef struct {
 #endif  /* GUITYPE_H_INCLUDED */
 
 /*************************** End of file ****************************/
+

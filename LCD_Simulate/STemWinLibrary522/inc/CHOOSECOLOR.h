@@ -147,3 +147,4 @@ void CHOOSECOLOR_Callback(WM_MESSAGE * pMsg);
 #endif /* GUI_WINSUPPORT */
 
 #endif /* CHOOSECOLOR_H */
+

@@ -111,3 +111,4 @@ extern TEXT_PROPS TEXT__DefaultProps;
 
 #endif   /* if GUI_WINSUPPORT */
 #endif   /* TEXT_PRIVATE_H */
+
