@@ -219,3 +219,4 @@ WIDGET_DRAW_ITEM_FUNC * HEADER_SetDefaultSkin(WIDGET_DRAW_ITEM_FUNC * pfDrawSkin
 #endif  // HEADER_H
 
 /*************************** End of file ****************************/
+

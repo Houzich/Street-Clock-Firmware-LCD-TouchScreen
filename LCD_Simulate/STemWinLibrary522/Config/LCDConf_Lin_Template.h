@@ -57,3 +57,4 @@ Purpose     : Display driver configuration file
 #endif /* LCDCONF_H */
 
 /*************************** End of file ****************************/
+

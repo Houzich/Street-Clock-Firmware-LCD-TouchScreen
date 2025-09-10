@@ -101,3 +101,4 @@ extern const GUI_DEVICE_API GUIDRV_Dist_API;
 #endif /* GUIDRV_DIST_H */
 
 /*************************** End of file ****************************/
+

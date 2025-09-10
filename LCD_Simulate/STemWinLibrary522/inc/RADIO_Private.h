@@ -212,3 +212,4 @@ unsigned RADIO__GetButtonSize(RADIO_Handle hObj);
 #endif   /* RADIO_PRIVATE_H */
 
 /************************* end of file ******************************/
+

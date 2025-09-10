@@ -128,3 +128,4 @@ void GUIDRV_TemplateI_SetBus_XXX(GUI_DEVICE * pDevice, GUI_PORT_API * pHW_API);
 #endif
 
 /*************************** End of file ****************************/
+

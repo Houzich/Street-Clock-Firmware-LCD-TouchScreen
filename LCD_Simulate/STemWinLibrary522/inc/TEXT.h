@@ -168,3 +168,4 @@ GUI_WRAPMODE                 TEXT_SetDefaultWrapMode (GUI_WRAPMODE WrapMode);
 #endif  // TEXT_H
 
 /*************************** End of file ****************************/
+

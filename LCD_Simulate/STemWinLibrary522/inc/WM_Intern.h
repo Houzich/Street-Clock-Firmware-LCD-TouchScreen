@@ -272,3 +272,4 @@ WM_tfPaint1Func         WM__SetPaint1Func          (WM_tfPaint1Func pfPaint1Func
 #endif   /* WM_INTERN_H */
 
 /*************************** End of file ****************************/
+

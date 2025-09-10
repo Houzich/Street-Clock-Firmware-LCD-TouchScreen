@@ -209,3 +209,4 @@ unsigned                     GRAPH_SCALE_SetTickDist (GRAPH_SCALE_Handle hScaleO
 #endif  // GRAPH_H
 
 /*************************** End of file ****************************/
+

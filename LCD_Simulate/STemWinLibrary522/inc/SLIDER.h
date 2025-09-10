@@ -206,3 +206,4 @@ int SLIDER_GetValue(SLIDER_Handle hObj);
 #endif  // SLIDER_H
 
 /*************************** End of file ****************************/
+

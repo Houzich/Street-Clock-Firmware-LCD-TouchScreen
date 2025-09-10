@@ -205,3 +205,4 @@ extern WIDGET_SKIN const * SCROLLBAR__pSkinDefault;
 
 #endif        /* GUI_WINSUPPORT */
 #endif        /* Avoid multiple inclusion */
+

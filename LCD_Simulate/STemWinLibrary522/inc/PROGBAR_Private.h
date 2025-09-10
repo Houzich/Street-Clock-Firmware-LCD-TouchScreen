@@ -147,3 +147,4 @@ int    PROGBAR__Value2Pos    (const PROGBAR_Obj * pObj, int v);
 #endif /* PROGBAR_PRIVATE_H */
 
 /*************************** End of file ****************************/
+

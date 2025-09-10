@@ -121,3 +121,4 @@ void GUI_X_Warn    (const char *s) { GUI_USE_PARA(s); }
 void GUI_X_ErrorOut(const char *s) { GUI_USE_PARA(s); }
 
 /*************************** End of file ****************************/
+

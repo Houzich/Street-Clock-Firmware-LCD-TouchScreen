@@ -141,3 +141,4 @@ void GUI_GIF__InitLZW(GUI_GIF_CONTEXT * pContext, int InputCodeSize);
 int  GUI_GIF__GetNextByte(GUI_GIF_CONTEXT * pContext);
 
 #endif /* GUI_GIF_PRIVATE_H */
+

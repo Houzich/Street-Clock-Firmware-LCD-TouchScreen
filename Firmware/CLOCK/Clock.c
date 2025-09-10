@@ -735,3 +735,4 @@ static void USART_Signal_Callback(uint32_t event)
     //osThreadFlagsSet(GPS_TaskHandle, 0x00000001U);
   }
 }
+

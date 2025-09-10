@@ -621,3 +621,4 @@ const GUI_ORIENTATION_API API_NAME = {
 };
 
 /*************************** End of file ****************************/
+

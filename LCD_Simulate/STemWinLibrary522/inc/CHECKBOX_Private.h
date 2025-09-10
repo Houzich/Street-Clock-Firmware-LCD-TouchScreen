@@ -174,3 +174,4 @@ extern const GUI_BITMAP    CHECKBOX__abmCheck[2];
 #endif   /* CHECKBOX_PRIVATE_H */
 
 /*************************** End of file ****************************/
+

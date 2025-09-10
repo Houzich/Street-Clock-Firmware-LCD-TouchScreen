@@ -88,3 +88,4 @@ Purpose     : Valid LCD configuration and defaults
 #endif /* LCD_CONFIG_DEFAULTS_H */
 
 /*************************** End of file ****************************/
+
