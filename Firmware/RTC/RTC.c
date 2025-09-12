@@ -594,3 +594,4 @@ void HAL_RTC_MspDeInit(RTC_HandleTypeDef *hrtc)
   __HAL_RCC_PWR_CLK_DISABLE();
 }
 
+

@@ -741,3 +741,4 @@ void LCD_X_WriteM01(unsigned char * pData, int NumBytes);
 
 /*************************** End of file ****************************/
 
+

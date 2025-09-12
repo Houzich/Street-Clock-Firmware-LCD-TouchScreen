@@ -279,3 +279,4 @@ extern const GUI_DEVICE_API GUIDRV_FlexColor_API;
 
 /*************************** End of file ****************************/
 
+

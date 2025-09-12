@@ -167,3 +167,4 @@ extern const WIDGET_SKIN   * SPINBOX__pSkinDefault;
 #endif   /* if GUI_WINSUPPORT */
 #endif   /* SPINBOX_PRIVATE_H */
 
+

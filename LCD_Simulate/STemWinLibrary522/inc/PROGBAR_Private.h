@@ -148,3 +148,4 @@ int    PROGBAR__Value2Pos    (const PROGBAR_Obj * pObj, int v);
 
 /*************************** End of file ****************************/
 
+

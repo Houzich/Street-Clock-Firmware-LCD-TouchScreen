@@ -186,3 +186,4 @@ int MULTIPAGE_SKIN__GetTouchedPage(MULTIPAGE_Handle hObj, int TouchX, int TouchY
 
 /*************************** End of file ****************************/
 
+

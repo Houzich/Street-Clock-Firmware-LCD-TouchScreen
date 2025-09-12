@@ -22,3 +22,4 @@ extern WM_HWIN hItem_Text_Block;
 WM_HWIN CreateWindow(void);
 #endif /*__WINDOWDLG*/
 
+

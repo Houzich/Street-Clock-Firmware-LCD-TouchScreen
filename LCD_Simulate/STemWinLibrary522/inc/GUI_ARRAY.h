@@ -89,3 +89,4 @@ void    * GUI_ARRAY_ResizeItemLocked(GUI_ARRAY hArray, unsigned int Index, int L
 
 #endif /* GUI_ARRAY_H */
 
+

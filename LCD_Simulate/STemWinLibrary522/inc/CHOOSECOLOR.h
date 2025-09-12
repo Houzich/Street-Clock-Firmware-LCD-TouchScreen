@@ -148,3 +148,4 @@ void CHOOSECOLOR_Callback(WM_MESSAGE * pMsg);
 
 #endif /* CHOOSECOLOR_H */
 
+

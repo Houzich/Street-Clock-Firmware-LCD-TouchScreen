@@ -123,3 +123,4 @@ int GUI_BMP__ReadPalette(GUI_BMP_CONTEXT * pContext, int NumColors);
 
 /*************************** End of file ****************************/
 
+

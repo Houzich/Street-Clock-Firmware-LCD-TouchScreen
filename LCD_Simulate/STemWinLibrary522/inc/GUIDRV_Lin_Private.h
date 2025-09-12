@@ -705,3 +705,4 @@ static void _SetSize(GUI_DEVICE * pDevice, int xSize, int ySize) {
 
 /*************************** End of file ****************************/
 
+

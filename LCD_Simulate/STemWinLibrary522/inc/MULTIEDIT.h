@@ -169,3 +169,4 @@ void MULTIEDIT_SetWrapWord      (MULTIEDIT_HANDLE hObj);
 
 /*************************** End of file ****************************/
 
+

@@ -133,3 +133,4 @@ typedef struct __STREETCLOCK_HandleStoreSettingsTypeDef
 #endif
 #endif /*__SETTINGS_H*/
 
+
